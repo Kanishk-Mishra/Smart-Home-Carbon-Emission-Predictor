@@ -55,8 +55,8 @@ The model demonstrated strong predictive performance, making it suitable for est
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/smart-home-energy-prediction.git
-cd smart-home-energy-prediction
+git clone https://github.com/Kanishk-Mishra/Smart-Home-Energy-Prediction.git
+cd Smart-Home-Energy-Prediction
 ```
 
 ### 2️⃣ Install Dependencies
