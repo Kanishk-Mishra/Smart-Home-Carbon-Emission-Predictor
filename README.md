@@ -1,7 +1,7 @@
 # 🏠Smart Home⚡Energy Consumption Prediction🔮
 
 ## 📘 Problem Statement
-The objective of this project is to **predict the energy consumption of a smart home** using various environmental and temporal factors such as temperature, humidity, weather conditions, and time-based features (hour, weekday, month, etc.).
+The objective of this project is to **predict the energy consumption of a smart home** using various environmental and temporal factors such as temperature, humidity, weather conditions, and time-based features (hour, weekday, month, etc.). Then, this predicted energy consumption can be used to calculate the carbon emissions by multiplying it by a constant factor.
 
 This prediction helps optimize energy usage, reduce wastage, and improve energy efficiency in smart homes.
 
